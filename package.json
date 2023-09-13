@@ -1,0 +1,29 @@
+{
+  "name": "embedding-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node finalexperiment.ts",
+    "test": "ts-node node_modules/tape/bin/tape test.ts",
+    "test2": "ts-node node_modules/tape/bin/tape test2.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.6.0",
+    "tape": "^5.6.6",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "abort-controller": "^3.0.0",
+    "compromise": "^14.10.0",
+    "fast-csv": "^4.3.6",
+    "langchain": "0.0.146",
+    "natural": "^6.7.2",
+    "node-nlp": "^4.27.0",
+    "papaparse": "^5.4.1"
+  }
+}
