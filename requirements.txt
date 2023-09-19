@@ -1,0 +1,4 @@
+spacy==3.6.1
+numpy==1.25.2
+sentence-transformers==2.2.2
+langchain==0.0.39

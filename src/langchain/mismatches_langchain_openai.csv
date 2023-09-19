@@ -1,0 +1,4 @@
+User Input,Top Matched Question,2nd Matched Question,3rd Matched Question
+when was the most recent interaction with Mike Smith?,What was the last interaction with Oscar Mitchell?,When was the last time we interacted with Ella Thompson?,"When was the last interaction with {{entity}}, and by whom?"
+who was the last one interacted with Uber?,What was the last interaction with Oscar Mitchell?,"When was the last interaction with {{entity}}, and by whom?",When was the last time we interacted with Ella Thompson?
+on what contact's Mike Smith do work?,What was the last interaction with Oscar Mitchell?,What contacts are being worked on by SDR Lily Turner?,When was the last time we interacted with Ella Thompson?
